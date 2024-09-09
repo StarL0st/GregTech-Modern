@@ -1,4 +1,4 @@
-package com.gregtechceu.gtceu.test.api.machine.trait;
+package com.gregtechceu.gtceu.api.machine.trait;
 
 import com.gregtechceu.gtceu.api.blockentity.MetaMachineBlockEntity;
 import com.gregtechceu.gtceu.api.capability.recipe.FluidRecipeCapability;

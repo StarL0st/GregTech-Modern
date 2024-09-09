@@ -1,8 +1,7 @@
-package com.gregtechceu.gtceu.test;
+package com.gregtechceu.gtceu;
 
-import com.gregtechceu.gtceu.GTCEu;
-import com.gregtechceu.gtceu.test.api.machine.trait.ParallelLogicTest;
-import com.gregtechceu.gtceu.test.api.machine.trait.RecipeLogicTest;
+import com.gregtechceu.gtceu.api.machine.trait.ParallelLogicTest;
+import com.gregtechceu.gtceu.api.machine.trait.RecipeLogicTest;
 
 import net.minecraft.gametest.framework.GameTest;
 import net.minecraft.gametest.framework.GameTestGenerator;

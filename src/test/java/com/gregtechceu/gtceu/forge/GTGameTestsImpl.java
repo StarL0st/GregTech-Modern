@@ -1,7 +1,7 @@
-package com.gregtechceu.gtceu.test.forge;
+package com.gregtechceu.gtceu.forge;
 
 import com.gregtechceu.gtceu.GTCEu;
-import com.gregtechceu.gtceu.test.GTGameTests;
+import com.gregtechceu.gtceu.GTGameTests;
 
 import net.minecraftforge.event.RegisterGameTestsEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
